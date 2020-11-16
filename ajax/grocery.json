@@ -1,0 +1,87 @@
+{
+   "grocery":
+   [
+       {
+        "serialno":"1",
+        "name":"rice",
+        "quantity":"10",
+        "unit":"kg",
+        "department":"food item",
+        "notes":"jaya rice"
+
+       },
+       {
+           "serialno":"2",
+           "name":"sugar",
+           "quantity":"1",
+           "unit":"kg",
+           "department":"food item",
+           "notes":"sugar"
+       },
+       {
+           "serialno":"3",
+           "name":"handwash",
+           "quantity":"1",
+           "unit":"1",
+           "department":"health",
+           "notes":"santhoor"
+       },
+       {
+           "serialno":"4",
+           "name":"toothpaste",
+           "quantity":"1",
+           "unit":"1",
+           "department":"health",
+           "notes":"colgate"
+       },
+       {
+           "serialno":"5",
+           "name":"apple",
+           "quantity":"i",
+           "unit":"kg",
+           "department":"fruit",
+           "notes":"green apple"
+       },
+       {
+           "serialno":"6",
+           "name":"orange",
+           "quantity":"1.5",
+           "unit":"kg",
+           "department":"fruit",
+           "notes":"orange"
+       },
+       {
+           "serialno":"7",
+           "name":"onion",
+           "quantity":"2",
+           "unit":"kg",
+           "department":"vegetables",
+           "notes":"big onion"
+       },
+       {
+           "serialno":"8",
+           "name":"tomato",
+           "quantity":"1",
+           "unit":"kg",
+           "department":"vegetables",
+           "notes":"vegetables"
+       },
+       {
+           "serialno":"9",
+           "name":"coconut oil",
+           "quantity":"1",
+           "unit":"L",
+           "department":"food item",
+           "notes":"kera"
+       },
+       {
+           "serialno":"10",
+           "name":"sunflower oil",
+           "quantity":"1",
+           "unit":"L ",
+           "department":"food item",
+           "notes":"gold winner"
+       }
+   ]
+
+}
